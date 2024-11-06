@@ -1,0 +1,9 @@
+[package]
+name = "decomp-ps2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+elf = "0.7.4"
+rabbitizer = "1.12.0"
+yaml-rust2 = "0.9.0"
